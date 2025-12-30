@@ -13,7 +13,8 @@ Anteriormente, o levantamento de dados era feito **manualmente** por toda a equi
 * **Lento:** Levava dias ou semanas para ser concluído, comprometendo a mão de obra dos servidores.
 * **Suscetível a erros:** A coleta manual aumentava o risco de dados inconsistentes.
 * **Custo operacional alto:** Desviava a equipe de tarefas analíticas para tarefas repetitivas.
- Lembrando que essa é uma versão refatorada do projeto, preservando dados sensiveis do sistema da UFPB, apenas para demonstração dos métodos utilizados na realização do projeto, podendo ser personalizado para outros sistemas.
+ 
+Lembrando que essa é uma versão refatorada do projeto, preservando dados sensiveis do sistema da UFPB, apenas para demonstração dos métodos utilizados na realização do projeto, podendo ser personalizado para outros sistemas.
 ### ✨ A Solução
 Com este scraper, o processo foi transformado em uma **operação de minutos**. O bot realiza o login, navega pelos menus acadêmicos e extrai automaticamente dados como:
 * Título do Projeto e Edital.
